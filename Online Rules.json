@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "rules": [
+    {
+      "description": "Github Mirror",
+      "origin": "github.com",
+      "exclude": "https://github.moeyy.xyz/https://github.com/",
+      "methods": [],
+      "types": [],
+      "target": "hub.nuaa.cf",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {},
+      "_excludeRe": {}
+    },
+    {
+      "description": "Google Mirror",
+      "origin": "google.com",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "search.ecnu.cf",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    },
+    {
+      "description": "Github Download Mirror",
+      "origin": "https://download.nuaa.cf",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "https://github.moeyy.xyz/https://github.com/",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
+  ]
+}
