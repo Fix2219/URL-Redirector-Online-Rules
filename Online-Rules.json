@@ -17,14 +17,15 @@
     {
       "description": "Google Mirror",
       "origin": "google.com",
-      "exclude": "",
+      "exclude": "transalate.google.com",
       "methods": [],
       "types": [],
       "target": "search.ecnu.cf",
       "example": "",
       "enable": true,
       "process": "",
-      "_originRe": {}
+      "_originRe": {},
+      "_excludeRe": {}
     },
     {
       "description": "Github Download Mirror",
