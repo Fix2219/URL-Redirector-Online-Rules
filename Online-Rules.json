@@ -17,7 +17,7 @@
     {
       "description": "Google Mirror",
       "origin": "google.com",
-      "exclude": "transalate.google.com",
+      "exclude": "translate.google.com",
       "methods": [],
       "types": [],
       "target": "search.ecnu.cf",
